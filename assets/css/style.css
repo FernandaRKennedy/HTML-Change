@@ -14,12 +14,12 @@ main,
     height: auto;
 }
 
-.btn1 {
+.Submit form {
     color: green;
     background-color: red;
 }
 
-.btn2 {
+.Clean form {
     color: crimson;
     background-color: green;
 }
